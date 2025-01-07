@@ -1,0 +1,10 @@
+/* main div */
+.InfoBox {
+    text-align: center;
+  }
+
+  /* styling for imported card */
+  .cardContainer{
+    display:flex;
+    justify-content:center;
+  }
